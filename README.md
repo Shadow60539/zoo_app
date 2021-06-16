@@ -2,6 +2,8 @@
 [![support](https://img.shields.io/badge/plateform-flutter%7Candroid%20studio-9cf?style=flat&logo=appveyor)](https://github.com/Shadow60539/zoo_app)
 [![Codemagic build status](https://api.codemagic.io/apps/60c09ae29415820f86e53a95/60c09ae29415820f86e53a94/status_badge.svg)](https://codemagic.io/apps/60c09ae29415820f86e53a95/60c09ae29415820f86e53a94/latest_build)
 [![Build](https://github.com/Shadow60539/zoo_app/actions/workflows/build.yml/badge.svg?style=flat&logo=appveyor)](https://github.com/Shadow60539/zoo_app/actions/workflows/build.yml)
+![GitHub Repo stars](https://img.shields.io/github/stars/Shadow60539/zoo_app)
+![GitHub forks](https://img.shields.io/github/forks/Shadow60539/zoo_app)
 
 ![lib](images/poster.png)
 
